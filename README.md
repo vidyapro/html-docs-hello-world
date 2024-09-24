@@ -1,7 +1,4 @@
-hi
-hello
-dog
-cat
-elephant
-tiger
-rhino
+vidya 
+srinithi
+sandhiya
+shajeetha
